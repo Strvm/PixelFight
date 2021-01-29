@@ -1,5 +1,9 @@
 # Pixel-Fight-Python
 
+
+![alt text](https://i.imgur.com/H5apotn.png)
+
+
 Welcome to the world of Pixel Fight. 
 Here the mission to accomplish: - save the king's daughter who has been kidnapped by an evil prince. To do so, you will have to defeat the evil prince. 
 Beware, the dangers will be multiple. 
