@@ -230,7 +230,7 @@ def checkMenuClick(name):
     if aboutRec.collidepoint(pygame.mouse.get_pos()):
         #Open browser to go to Github repo.
         chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
-        url = 'https://github.com/Strvm/Pixel-Fight'
+        url = 'https://github.com/Strvm/PixelFight'
         webbrowser.get(chrome_path).open(url)
     if exitRec.collidepoint(pygame.mouse.get_pos()):
         pygame.quit()
